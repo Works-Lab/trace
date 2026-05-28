@@ -40,6 +40,6 @@ Trace should help answer simple questions:
 
 ## Status
 
-Early prototype / active development.
+working prototype / active development.
 
 The repo will start with documentation and design notes, then expand as hardware, firmware, and interface files are cleaned up for public release.
